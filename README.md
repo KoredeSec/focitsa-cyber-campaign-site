@@ -3,6 +3,7 @@ Static campaign website for FOCITSA cybersecurity candidates built and deployed 
 Building and Deploying a Secure Campaign Website for FOCITSA Elections (Cybersecurity Department)
 
 **Introduction**
+
 In preparation for the FOCITSA 2025 elections, I took the initiative to build and deploy a secure, colorful, and fully functional campaign website showcasing candidates from the Cybersecurity Department. This project was aimed at increasing voter engagement, enhancing transparency, and showcasing the leadership profiles of each candidate. The project was led and sponsored by Ibrahim Yusuf, NACSS President.
 
 **Project Goals**
@@ -17,17 +18,17 @@ Utilize a free domain with No-IP Dynamic DNS.
 
 Ensure the site is publicly accessible and available during the election campaign window.
 
-Features of the Website
+**Features of the Website**:
 
-Candidate profiles for:
+-Candidate profiles for:
 
-Adeniyi Daniel (Financial Secretary)
+**Adeniyi Daniel** (Financial Secretary)
 
-Ayanyemi Roland aka Cashy (Social Director 1)
+**Ayanyemi Roland aka Cashy **(Social Director 1)
 
-Opeyemi Oluwasegun aka Opesax (Public Relations Officer 1)
+**Opeyemi Oluwasegun aka Opesax** (Public Relations Officer 1)
 
-Ajibade Jeremiah aka Emmy-J (Software Director 2)
+**Ajibade Jeremiah aka Emmy-J** (Software Director 2)
 
 Individual sections with leadership experience, manifestos, and fliers
 
@@ -35,21 +36,21 @@ School logos: Osun State University, NACOS, and FOCITSA
 
 Visual theme of unity, digital transparency, and student empowerment
 
-Tech Stack & Tools Used
+**Tech Stack & Tools Used**
 
-Frontend: HTML, CSS (Static Web Page)
+-Frontend: HTML, CSS (Static Web Page)
 
-Web Server: Apache2
+-Web Server: Apache2
 
-Cloud Platform: AWS EC2 (Ubuntu 22.04)
+-Cloud Platform: AWS EC2 (Ubuntu 22.04)
 
-SSL: Let’s Encrypt via Certbot
+-SSL: Let’s Encrypt via Certbot
 
-Dynamic DNS: No-IP DUC
+-Dynamic DNS: No-IP DUC
 
-Deployment: SCP over SSH, Linux Terminal
+-Deployment: SCP over SSH, Linux Terminal
 
-Step-by-Step Implementation
+**Step-by-Step Implementation**
 
 1. Local Website Creation
 
@@ -115,7 +116,7 @@ Auto-renew configured with:
 
 sudo certbot renew --dry-run
 
-Outcome
+**Outcome**
 
 Live secure site: https://focitsacyber2025.ddns.net
 
