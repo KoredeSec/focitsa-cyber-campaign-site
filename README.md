@@ -71,6 +71,7 @@ Connected via SSH from local Ubuntu machine
 3. Apache Installation & Setup
 
 sudo apt update && sudo apt install apache2
+
 sudo ufw allow 'Apache Full'
 
 Tested default Apache page at http://<EC2-PUBLIC-IP>
@@ -86,7 +87,9 @@ scp -i ~/tory/Candidates.pem ~/Downloads/focitsa_website_cyber.zip ubuntu@<EC2-I
 SSH into server, unzip and copy:
 
 sudo apt install unzip
+
 unzip focitsa_website_cyber.zip
+
 sudo cp -r * /var/www/html/
 
 5. Domain Setup with No-IP
@@ -96,6 +99,7 @@ Created a free hostname: focitsacyber2025.ddns.net
 Installed No-IP DUC:
 
 wget --content-disposition https://www.noip.com/download/linux/latest
+
 sudo apt install ./noip-duc_3.3.0_amd64.deb
 
 Logged in using DDNS credentials:
@@ -134,7 +138,8 @@ Promoted digital literacy and campaign visibility
 
 Demonstrated real-world DevSecOps skills: DNS, Web Hosting, Security, and Linux administration
 
-**How to Showcase on Resume **
+**How to Showcase on Resume**
+
 Project: FOCITSA Cybersecurity Campaign Website (2025)Tools: AWS EC2, Apache2, No-IP, Let’s Encrypt, HTML/CSS, SSH, SCP
 
 Highlights:
@@ -148,7 +153,9 @@ Highlights:
 -Contributed to a faculty-wide student election process
 
 **Conclusion**
+
  This project has been a significant opportunity to apply cloud and cybersecurity knowledge into practice. It also served as a platform for empowering student representation while developing key web deployment and system administration skills. Fully self-hosted, secured, and live on the internet – this campaign website demonstrates the possibilities of student-led tech innovation.
 
-Author: Ibrahim Yusuf  Role: NACSS President & Project Lead
+Author: Ibrahim Yusuf  
+Role: NACSS President & Project Lead
 
