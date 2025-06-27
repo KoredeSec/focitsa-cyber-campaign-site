@@ -8,27 +8,27 @@ In preparation for the FOCITSA 2025 elections, I took the initiative to build an
 
 **Project Goals**
 
-Create a professional and vibrant campaign website.
+-Create a professional and vibrant campaign website.
 
-Deploy it on AWS EC2 using free-tier resources.
+-Deploy it on AWS EC2 using free-tier resources.
 
-Secure the site with HTTPS using Let’s Encrypt.
+-Secure the site with HTTPS using Let’s Encrypt.
 
-Utilize a free domain with No-IP Dynamic DNS.
+-Utilize a free domain with No-IP Dynamic DNS.
 
-Ensure the site is publicly accessible and available during the election campaign window.
+-Ensure the site is publicly accessible and available during the election campaign window.
 
 **Features of the Website**:
 
--Candidate profiles for:
+ Candidate profiles for:
 
-**Adeniyi Daniel** (Financial Secretary)
+1.**Adeniyi Daniel** (Financial Secretary)
 
-**Ayanyemi Roland aka Cashy **(Social Director 1)
+2.**Ayanyemi Roland aka Cashy** (Social Director 1)
 
-**Opeyemi Oluwasegun aka Opesax** (Public Relations Officer 1)
+3.**Opeyemi Oluwasegun aka Opesax** (Public Relations Officer 1)
 
-**Ajibade Jeremiah aka Emmy-J** (Software Director 2)
+4.**Ajibade Jeremiah aka Emmy-J** (Software Director 2)
 
 Individual sections with leadership experience, manifestos, and fliers
 
